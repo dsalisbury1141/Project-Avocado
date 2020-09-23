@@ -1,6 +1,6 @@
 # The Avocado Project <img src="https://i.gyazo.com/c1271e12fd67c1351622aa893bccfefc.png" width="50">
 
-If you would like to see our presentation, please [click here!](https://github.com/kmanning1224/Project1-Repo/blob/master/Avocado%20Presentation.pptx)
+If you would like to see our presentation, please [click here!](https://github.com/dsalisbury1141/Project-Avocado/blob/master/Avocado%20Presentation.pptx)
 ### Our team sought to get to the creamy, delicious, seeded world of avocados in the US to answer the following…
 
 ### General Hypotheses:
@@ -9,7 +9,7 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 
 ### Questions Reviewed:
 ####	Who exports the most avocados to the US?
-*Jupyter Notebook for this section [here](https://github.com/kmanning1224/Project1-Repo/blob/master/Sophie%20Data/Sofiecado.ipynb)*
+*Jupyter Notebook for this section [here](https://github.com/dsalisbury1141/Project-Avocado/blob/master/Sophie%20Data/Sofiecado.ipynb)*
 
 •	Chi squared value of 21,403,475,432.32 exceeds the critical value of 9.49 AND the p-value is 0.0, so we can assume that the results are statistically significant.
 
@@ -18,13 +18,13 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 •	We thought the US exported to other countries, but it is very minimal. Our original question covering this had to be dropped based on research.
 
 
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Sophie%20Data/total_avocado_stackedbar.png" width="500">
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Sophie%20Data/total_avocado_pie.png" width="500">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Sophie%20Data/total_avocado_stackedbar.png" width="500">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Sophie%20Data/total_avocado_pie.png" width="500">
 
 
 
 ####	Does the month of year affect avocado sales or prices?
-*Jupyter Notebook for this section [here](https://github.com/kmanning1224/Project1-Repo/blob/master/Christina%20Data/ChristinaAvocCleaned.ipynb)*
+*Jupyter Notebook for this section [here](https://github.com/dsalisbury1141/Project-Avocado/blob/master/Christina%20Data/ChristinaAvocCleaned.ipynb)*
 
 •	To find seasonal sales information, dates, total volume sold, and the average price of the avocados were needed. This information showed that time of year could affect volume sold, but more research needed to be made for other factors including: supply and demand, weather, and holidays.
 
@@ -37,7 +37,7 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 
 
 ####	What is the popularity of avocados within the United states sold by region?
-*Jupyter Notebook for this section [here](https://github.com/kmanning1224/Project1-Repo/blob/master/Dawn%20Data/DawnCode_Avocado.ipynb)*
+*Jupyter Notebook for this section [here](https://github.com/dsalisbury1141/Project-Avocado/blob/master/Dawn%20Data/DawnCode_Avocado.ipynb)*
 
 •	Hass avocado board identified 54 top market regions within the United States, the data provided included all sizes and bulk distributions.
 
@@ -55,22 +55,22 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 
 •	After reviewing the avocado.csv dataset, we found a large discrepancy with the total lbs. listed, it did not reflect the actual for the product count provided in the data, mostly around the data from Detroit, it was off over 2,000,000 lbs
 
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Dawn%20Data/Total%20Vol_Avocado_ByRegion_Plot.png" width="900">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Dawn%20Data/Total%20Vol_Avocado_ByRegion_Plot.png" width="900">
 
 
 ####	Can the type of avocado offered affect sales?
 
 • The United states prefers the small avocados.
 
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Dawn%20Data/Small_Avocado_ByRegion_Plot.png" width="900">
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Dawn%20Data/Large_Avocado_ByRegion_Plot.png" width="900">
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Dawn%20Data/XLarge_Avocado_ByRegion_Plot.png" width="900">
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Dawn%20Data/Total_Bags_Avocado_ByRegion_Plot.png" width="900">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Dawn%20Data/Small_Avocado_ByRegion_Plot.png" width="900">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Dawn%20Data/Large_Avocado_ByRegion_Plot.png" width="900">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Dawn%20Data/XLarge_Avocado_ByRegion_Plot.png" width="900">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Dawn%20Data/Total_Bags_Avocado_ByRegion_Plot.png" width="900">
 
 
 ####	How do the prices of conventional avocados compare to organic?
 
-*Jupyter Notebook for this [here](https://github.com/kmanning1224/Project1-Repo/blob/master/Avocado%20Data%20-K/data/Comparisons.ipynb)*
+*Jupyter Notebook for this [here](https://github.com/dsalisbury1141/Project-Avocado/blob/master/Avocado%20Data%20-K/data/Comparisons.ipynb)*
 
 •	As the box plot analysis showed, Organic avocados cost roughly 34% more than Conventional.
 
@@ -82,8 +82,8 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 
 •	Conventional Avocados have a higher average volume sold than Organic, These results pose an inverse relationship between cost and units sold ultimately suggesting that the lower cost leads to higher sales.
 
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Avocado%20Data%20-K/data/PriceComparisonboxplot2.png" width="900">
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Avocado%20Data%20-K/data/FluxConventional_OrganicPrices2.png" width="900">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Avocado%20Data%20-K/data/PriceComparisonboxplot.png" width="900">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Avocado%20Data%20-K/data/FluxConventional_OrganicPrices2.png" width="900">
 
 ####	How do the units sold compare between conventional and organic avocados?
 
@@ -91,8 +91,8 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 
 •	Conventional Avocados have a higher average volume sold than Organic, These results pose an inverse relationship between cost and units sold ultimately suggesting that the lower cost leads to higher sales.
 
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Avocado%20Data%20-K/data/TotalOrganicVolbyYear.png" width="500">
-<img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Avocado%20Data%20-K/data/TotalConVolbyYear.png" width="500">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Avocado%20Data%20-K/data/TotalOrganicVolbyYear.png" width="500">
+<img src="https://github.com/dsalisbury1141/Project-Avocado/blob/master/Avocado%20Data%20-K/data/TotalConVolbyYear.png" width="500">
 
 # Conclusions/Observations
 

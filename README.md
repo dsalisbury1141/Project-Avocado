@@ -129,3 +129,6 @@ Shahbandeh, M (2020, May12) Production of avocados in the United States in 2019,
 * Ash, A. (2019, November 04). Avocado prices have boomed in the last decade - here's why they are so expensive. Retrieved July 22, 2020, from https://www.businessinsider.com/why-avocados-are-so-expensive-2019-10
 * Jessie Quinn More Articles July 31, 2. (2018, July 31). Here's Why Avocados Are so Expensive Right Now. Retrieved July 22, 2020, from https://www.cheatsheet.com/culture/why-avocados-are-so-expensive.html/
 
+How to read my code:
+1. Download my repository
+2. Open Jupyter and load fines with code, run each file
